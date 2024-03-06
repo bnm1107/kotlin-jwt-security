@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    vault:
+      enabled: false
+
+
+  messages:
+    basename: i18n/exception
